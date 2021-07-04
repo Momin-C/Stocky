@@ -11,7 +11,6 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -21,17 +20,14 @@
 * [References](#references)
 * [Contact](#contact)
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project draws the connection between computer science research and encryption by obtaining a user input and using one of the most secure encryption methods (RSA) to encrypt the given input. The code is explained in the [Roadmap](#roadmap) section of the code and uses many packages, methods, loops, conditional statements, user input and output. This program enables the user to safely send messages to anyone and the end user can decrypt this using this program's built in decryption as well.
 
-<!-- DEVELOPED USING -->
 ### Developed Using
 This project was developed using the Atom text editor and was tested using Terminal.
 * [Atom](https://atom.io)
 
-<!-- VIDEOS  -->
 ## Videos
 
 Full in-depth use of this program can be found on this link below:
@@ -47,7 +43,6 @@ Inputting `false` to the final prompt
 
 ![](images/Encrypted2.gif)
 
-<!-- USAGE -->
 ## Usage
 
 To use this file and test its encryption simply clone the CS-ISU repository onto your computer and run it using an IDE or a compiler of your choice.
@@ -58,13 +53,11 @@ NOTE: When running the program, it sometimes takes a while for it to ask for an 
 git clone https://github.com/Momin-C/RSA-Encryption.git
 ```
 
-<!-- REFERENCES -->
 ## References
 I learned about RSA Encryption through the University of Waterloo's slideshows. Links to the slideshows can be seen below
 * [Slideshow](https://cs.uwaterloo.ca/~cbruni/videos/Math135JanApr2016/CCCWeek9Pt1RSA.pdf)
 * [Worked Example](https://cs.uwaterloo.ca/~cbruni/videos/Math135SeptDec2015/Lesson19RSA.pdf)
 
-<!-- CONTACT -->
 ## Contact
 
 Your Name - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
