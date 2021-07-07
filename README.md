@@ -52,10 +52,10 @@ Using the `$graph` command
 
 To use this bot, some packages need to be installed, download these packages from your terminal
 ```sh
-$ pip3 install discord.py
-$ pip3 install yfinance
-$ pip3 install plotly
-$ pip3 install kaleido
+pip3 install discord.py
+pip3 install yfinance
+pip3 install plotly
+pip3 install kaleido
 ```
 
 Then clone the repository
@@ -64,15 +64,13 @@ Then clone the repository
 git clone https://github.com/Momin-C/RSA-Encryption.git
 ```
 
-Setup the bot by creating a ClientID.txt file including
+Setup the bot by watching this [video](https://youtu.be/Uibz0iQjoC0?t=692), remember to create a ClientID.txt file including the client ID retrieved from the discord website. Once that is done run the Stocky.py and the bot will be active.
 
 ## References
-I learned about RSA Encryption through the University of Waterloo's slideshows. Links to the slideshows can be seen below
-* [Slideshow](https://cs.uwaterloo.ca/~cbruni/videos/Math135JanApr2016/CCCWeek9Pt1RSA.pdf)
-* [Worked Example](https://cs.uwaterloo.ca/~cbruni/videos/Math135SeptDec2015/Lesson19RSA.pdf)
 
+* [Credit to othneildrew for the README template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
 ## Contact
 
-Your Name - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
+Momin Chaudhry - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
 
-Project Link: [https://github.com/Momin-C/RSA-Encryption](https://github.com/Momin-C/RSA-Encryption)
+Project Link: [https://github.com/Momin-C/Stocky](https://github.com/Momin-C/Stocky)
