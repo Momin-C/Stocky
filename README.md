@@ -15,43 +15,56 @@
 
 * [About the Project](#about-the-project)
     * [Developed Using](#developed-using)
-* [Videos](#videos)
-* [Usage](#usage)
+* [Demo](#demo)
+* [Getting Started](#getting-started)
 * [References](#references)
 * [Contact](#contact)
 
 ## About The Project
 
-This project draws the connection between computer science research and encryption by obtaining a user input and using one of the most secure encryption methods (RSA) to encrypt the given input. The code is explained in the [Roadmap](#roadmap) section of the code and uses many packages, methods, loops, conditional statements, user input and output. This program enables the user to safely send messages to anyone and the end user can decrypt this using this program's built in decryption as well.
+Stocky allows you to view the price of stocks listed on US and Canadian Stock Exchanges in real-time. The bot gives daily graphs, info, daily numbers and more for any stock desired, all through simple easy-to-use commands!
 
 ### Developed Using
-This project was developed using the Atom text editor and was tested using Terminal.
-* [Atom](https://atom.io)
+This project was developed using the Yahoo! Finance API and the Discord.py module.
+* [Yahoo! Finance](https://pypi.org/project/yfinance/)
+* [Discord.py](https://discordpy.readthedocs.io/en/stable/)
 
-## Videos
+## Demo
 
 Full in-depth use of this program can be found on this link below:
 
 [https://www.youtube.com/watch?v=z5l0-HlCo2c](https://www.youtube.com/watch?v=z5l0-HlCo2c)
 
 GIFs are below.
-Inputting `true` to the final prompt
+Using the `$price` command
 
 ![](images/Encrypted1.gif)
 
-Inputting `false` to the final prompt
+Using the `$info` command
 
 ![](images/Encrypted2.gif)
 
-## Usage
+Using the `$graph` command
 
-To use this file and test its encryption simply clone the CS-ISU repository onto your computer and run it using an IDE or a compiler of your choice.
+![](images/Encrypted2.gif)
 
-NOTE: When running the program, it sometimes takes a while for it to ask for an input due to the large prime numbers being generated. If this is the case re-run the program until it asks for you to input a phrase to decrypt instantly.
+## Getting Started
+
+To use this bot, some packages need to be installed, download these packages from your terminal
+```sh
+$ pip3 install discord.py
+$ pip3 install yfinance
+$ pip3 install plotly
+$ pip3 install kaleido
+```
+
+Then clone the repository
 
 ```sh
 git clone https://github.com/Momin-C/RSA-Encryption.git
 ```
+
+Setup the bot by creating a ClientID.txt file including
 
 ## References
 I learned about RSA Encryption through the University of Waterloo's slideshows. Links to the slideshows can be seen below
