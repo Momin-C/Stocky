@@ -1,7 +1,7 @@
 <br />
   <p align="center">
   <a href="https://github.com/Momin-C/Stocky">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Logo.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Stocky</h3>
   <p align="center">
@@ -15,7 +15,7 @@
 
 * [About the Project](#about-the-project)
     * [Developed Using](#developed-using)
-* [Demo](#demo)
+* [Demos](#demos)
 * [Getting Started](#getting-started)
 * [References](#references)
 * [Contact](#contact)
@@ -29,39 +29,36 @@ This project was developed using the Yahoo! Finance API and the Discord.py modul
 * [Yahoo! Finance](https://pypi.org/project/yfinance/)
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/)
 
-## Demo
+## Demos
 
-Full in-depth use of this program can be found on this link below:
-
-[https://www.youtube.com/watch?v=z5l0-HlCo2c](https://www.youtube.com/watch?v=z5l0-HlCo2c)
-
-GIFs are below.
+GIFs of some commands can be found below.
 Using the `$price` command
 
-![](images/Encrypted1.gif)
+![](images/Price.gif)
 
 Using the `$info` command
 
-![](images/Encrypted2.gif)
+![](images/Info.gif)
 
 Using the `$graph` command
 
-![](images/Encrypted2.gif)
+![](images/Graph.gif)
 
 ## Getting Started
 
 To use this bot, some packages need to be installed, download these packages from your terminal
 ```sh
 pip3 install discord.py
-pip3 install yfinance
+pip3 install yfinance==0.1.62
 pip3 install plotly
 pip3 install kaleido
 ```
+For best results when graphing, install the [Raleway](https://fonts.google.com/specimen/Raleway) font.
 
 Then clone the repository
 
 ```sh
-git clone https://github.com/Momin-C/RSA-Encryption.git
+git clone https://github.com/Momin-C/Stocky.git
 ```
 
 Setup the bot by watching this [video](https://youtu.be/Uibz0iQjoC0?t=692), remember to create a ClientID.txt file including the client ID retrieved from the discord website. Once that is done run the Stocky.py and the bot will be active.
