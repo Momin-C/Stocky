@@ -1,15 +1,22 @@
 <br />
   <p align="center">
   <a href="https://github.com/Momin-C/Stocky">
-    <img src="images/Logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Logo.png" alt="Logo" width="120" height="120">
   </a>
   <h3 align="center">Stocky</h3>
   <p align="center">
     Real-time Discord Stock Bot
     <br />
-    <a href="https://www.youtube.com/watch?v=z5l0-HlCo2c"><strong>Video Demo</strong></a>
+    <br />
+    <a href="https://github.com/Momin-C/Stocky/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Momin-C/Stocky/issues">Request Feature</a>
   </p>
 </p>
+
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Table of Contents
 
