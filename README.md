@@ -22,6 +22,8 @@
     * [Developed Using](#developed-using)
 * [Demos](#demos)
 * [Getting Started](#getting-started)
+    * [Prerequisites](#prerequisites)
+    * [Setting Up The Bot](#setting-up-the-bot)
 * [References](#references)
 * [Contact](#contact)
 
@@ -51,7 +53,7 @@ Using the `$graph` command
 
 ## Getting Started
 
-## Prerequisites
+### Prerequisites
 To use this bot, some packages need to be installed, download these packages from your terminal
 ```sh
 pip3 install discord.py
@@ -67,7 +69,7 @@ Then clone the repository
 git clone https://github.com/Momin-C/Stocky.git
 ```
 
-## Setting up the bot
+### Setting up the bot
 Once the repository has been cloned, the bot must be activated using the discord developer portal. Either use the instructions written below or follow this [video](https://youtu.be/Uibz0iQjoC0?t=692) 
 
 
