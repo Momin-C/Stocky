@@ -9,8 +9,6 @@
     <br />
     <br />
     <a href="https://github.com/Momin-C/Stocky/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Momin-C/Stocky/issues">Request Feature</a>
   </p>
 </p>
 
@@ -78,3 +76,10 @@ Setup the bot by watching this [video](https://youtu.be/Uibz0iQjoC0?t=692), reme
 Momin Chaudhry - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
 
 Project Link: [https://github.com/Momin-C/Stocky](https://github.com/Momin-C/Stocky)
+
+[issues-shield]: https://img.shields.io/github/issues/Momin-C/Stocky.svg?style=for-the-badge
+[issues-url]: https://github.com/Momin-C/Stocky/issues
+[license-shield]: https://img.shields.io/github/license/Momin-C/Stocky.svg?style=for-the-badge
+[license-url]: https://github.com/Momin-C/Stocky/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/Momin-C
