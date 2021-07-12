@@ -51,6 +51,7 @@ Using the `$graph` command
 
 ## Getting Started
 
+## Prerequisites
 To use this bot, some packages need to be installed, download these packages from your terminal
 ```sh
 pip3 install discord.py
@@ -66,7 +67,21 @@ Then clone the repository
 git clone https://github.com/Momin-C/Stocky.git
 ```
 
-Setup the bot by watching this [video](https://youtu.be/Uibz0iQjoC0?t=692), remember to create a ClientID.txt file including the client ID retrieved from the discord website. Once that is done run the Stocky.py and the bot will be active.
+## Setting up the bot
+Once the repository has been cloned, the bot must be activated using the discord developer portal. Either use the instructions written below or follow this [video](https://youtu.be/Uibz0iQjoC0?t=692) 
+
+
+1. Go to the Discord developer portal [application website](https://discord.com/developers/applications)
+2. Click New Application
+3. Add a name for the application
+4. Click the bot menu on the left and click "Add Bot"
+5. Set the username to "Stocky" and use the logo in the images directory as the bot's picture
+6. Go to the [bot permission website](https://discordapi.com/permissions.html) and select read messages, send messages, embed links and attach files
+7. Under the permissions, paste the application ID which can be found on the "General Information" section of the discord developr portal
+8. Click the link given and add the bot to your server
+9. Right-click the "General" text channel and copy the channel ID, replace "842107220576567350" with this channel ID
+10. On the discord developer portal bot site, copy the token and create a new file called ClientID.txt, paste this token there
+11. Run the Stocky.py python file for the bot to be active
 
 ## References
 
@@ -82,4 +97,4 @@ Project Link: [https://github.com/Momin-C/Stocky](https://github.com/Momin-C/Sto
 [license-shield]: https://img.shields.io/github/license/Momin-C/Stockye
 [license-url]: https://github.com/Momin-C/Stocky/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Momin-C
+[linkedin-url]: https://www.linkedin.com/in/momin-chaudhry/
