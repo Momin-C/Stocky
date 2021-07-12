@@ -77,9 +77,9 @@ Momin Chaudhry - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.c
 
 Project Link: [https://github.com/Momin-C/Stocky](https://github.com/Momin-C/Stocky)
 
-[issues-shield]: https://img.shields.io/github/issues/Momin-C/Stocky.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Momin-C/Stocky
 [issues-url]: https://github.com/Momin-C/Stocky/issues
-[license-shield]: https://img.shields.io/github/license/Momin-C/Stocky.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Momin-C/Stockye
 [license-url]: https://github.com/Momin-C/Stocky/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Momin-C
