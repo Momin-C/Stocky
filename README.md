@@ -81,5 +81,5 @@ Project Link: [https://github.com/Momin-C/Stocky](https://github.com/Momin-C/Sto
 [issues-url]: https://github.com/Momin-C/Stocky/issues
 [license-shield]: https://img.shields.io/github/license/Momin-C/Stockye
 [license-url]: https://github.com/Momin-C/Stocky/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Momin-C
