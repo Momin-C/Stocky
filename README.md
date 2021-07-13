@@ -109,6 +109,6 @@ Project Link: [https://github.com/Momin-C/Stocky](https://github.com/Momin-C/Sto
 [issues-shield]: https://img.shields.io/github/issues/Momin-C/Stocky
 [issues-url]: https://github.com/Momin-C/Stocky/issues
 [license-shield]: https://img.shields.io/github/license/Momin-C/Stockye
-[license-url]: https://github.com/Momin-C/Stocky/blob/master/LICENSE.txt
+[license-url]: https://github.com/Momin-C/Stocky/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/momin-chaudhry/
