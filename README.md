@@ -86,10 +86,6 @@ Once the repository has been cloned, the bot must be activated using the discord
 9. On the discord developer portal bot site, copy the token and then create a new file in this directory called ClientID.txt, paste this token there
 10. Run the Stocky.py python file for the bot to be active
 
-## References
-
-* [Credit to othneildrew for the README template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
-
 ## Contributing
 
 If you have any ideas on how to improve Stocky, make a contribution!
@@ -99,6 +95,10 @@ If you have any ideas on how to improve Stocky, make a contribution!
 3. Commit your changes (`git commit -m 'Description of update'`)
 4. Push to the branch (`git push origin update`)
 5. Open a new pull request
+
+## References
+
+* [Credit to othneildrew for the README template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
 
 ## Contact
 
