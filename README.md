@@ -3,7 +3,8 @@
   <a href="https://github.com/Momin-C/Stocky">
     <img src="images/Logo.png" alt="Logo" width="120" height="120">
   </a>
-  <h3 align="center">Stocky</h3>
+
+  <h2 align="center">Stocky</h2>
   <p align="center">
     Real-time Discord Stock Bot
     <br />
@@ -74,16 +75,15 @@ Once the repository has been cloned, the bot must be activated using the discord
 
 
 1. Go to the Discord developer portal [application website](https://discord.com/developers/applications)
-2. Click New Application
-3. Add a name for the application
-4. Click the bot menu on the left and click "Add Bot"
-5. Set the username to "Stocky" and use the logo in the images directory as the bot's picture
-6. Go to the [bot permission website](https://discordapi.com/permissions.html) and select read messages, send messages, embed links and attach files
-7. Under the permissions, paste the application ID which can be found on the "General Information" section of the discord developr portal
-8. Click the link given and add the bot to your server
-9. Right-click the "General" text channel and copy the channel ID, replace "842107220576567350" with this channel ID
-10. On the discord developer portal bot site, copy the token and create a new file called ClientID.txt, paste this token there
-11. Run the Stocky.py python file for the bot to be active
+2. Click New Application and add a name
+3. Click the bot menu on the left and click "Add Bot"
+4. Set the bot username to "Stocky" and use the logo in the images directory as the bot's picture
+5. Go to the [bot permission website](https://discordapi.com/permissions.html) and select read messages, send messages, embed links and attach files
+6. Under the permissions, paste the application ID which can be found on the "General Information" section of the discord developr portal
+7. Click the link given and add the bot to your server
+8. Right-click the "General" text channel and copy the channel ID, replace "842107220576567350" in Stocky.py on line 181 with this channel ID
+9. On the discord developer portal bot site, copy the token and then create a new file in this directory called ClientID.txt, paste this token there
+10. Run the Stocky.py python file for the bot to be active
 
 ## References
 
