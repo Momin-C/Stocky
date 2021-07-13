@@ -82,8 +82,8 @@ Once the repository has been cloned, the bot must be activated using the discord
 5. Go to the [bot permission website](https://discordapi.com/permissions.html) and select read messages, send messages, embed links and attach files
 6. Under the permissions, paste the application ID which can be found on the "General Information" section of the discord developr portal
 7. Click the link given and add the bot to your server
-8. Right-click the "General" text channel and copy the channel ID, replace "842107220576567350" in Stocky.py on line 181 with this channel ID
-9. On the discord developer portal bot site, copy the token and then create a new file in this directory called ClientID.txt, paste this token there
+8. Right-click the "General" text channel and copy the channel ID, paste this into the file ServerID.txt, making this the file's only contents
+9. On the discord developer portal bot site, copy the token and then paste it in the file ClientID.txt, making this the file's only contents
 10. Run the Stocky.py python file for the bot to be active
 
 ## Contributing

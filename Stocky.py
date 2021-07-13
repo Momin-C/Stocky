@@ -178,7 +178,10 @@ async def help(context):
 #When the bot is active, send a message to the general channel instructing users to use the $help command
 @client.event
 async def on_ready():
-    general_channel = client.get_channel(842107220576567350)
+    q = open("ServerID.txt","r")
+    server_ID = int(q.read())
+    
+    general_channel = client.get_channel(server_ID)
     await general_channel.send("Bot is up and ready! Use $help to view commands")
 
 #Run client on server by reading the bot token from another file
