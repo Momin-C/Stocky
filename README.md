@@ -6,7 +6,7 @@
 
   <h2 align="center">Stocky</h2>
   <p align="center">
-    Real-time Discord Stock Bot
+    Real-time Discord Stock Bot for stocks listed on American and Canadian stock exchanges
     <br />
     <br />
     <a href="https://github.com/Momin-C/Stocky/issues">Report Bug</a>
@@ -25,6 +25,7 @@
 * [Getting Started](#getting-started)
     * [Prerequisites](#prerequisites)
     * [Setting Up The Bot](#setting-up-the-bot)
+* [Contributing](#contributing)
 * [References](#references)
 * [Contact](#contact)
 
@@ -88,6 +89,17 @@ Once the repository has been cloned, the bot must be activated using the discord
 ## References
 
 * [Credit to othneildrew for the README template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
+
+## Contributing
+
+If you have any ideas on how to improve Stocky, make a contribution!
+
+1. Fork the project
+2. Create a new branch (`git checkout -b update`)
+3. Commit your changes (`git commit -m 'Description of update'`)
+4. Push to the branch (`git push origin update`)
+5. Open a new pull request
+
 ## Contact
 
 Momin Chaudhry - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
