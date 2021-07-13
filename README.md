@@ -6,7 +6,7 @@
 
   <h2 align="center">Stocky</h2>
   <p align="center">
-    Real-time Discord Stock Bot for stocks listed on American and Canadian stock exchanges
+    Real-time and historical quantitative Discord Bot for information, prices and graphs regarding stocks listed on American and Canadian stock exchanges
     <br />
     <br />
     <a href="https://github.com/Momin-C/Stocky/issues">Report Bug</a>
