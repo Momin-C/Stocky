@@ -82,7 +82,7 @@ Once the repository has been cloned, the bot must be activated using the discord
 5. Go to the [bot permission website](https://discordapi.com/permissions.html) and select read messages, send messages, embed links and attach files
 6. Under the permissions, paste the application ID which can be found on the "General Information" section of the discord developr portal
 7. Click the link given and add the bot to your server
-8. Right-click the "General" text channel and copy the channel ID, paste this into the file ServerID.txt, making this the file's only contents
+8. Right-click the "General" text channel and copy the channel ID, paste this into the file ChannelID.txt, making this the file's only contents
 9. On the discord developer portal bot site, copy the token and then paste it in the file ClientID.txt, making this the file's only contents
 10. Run the Stocky.py python file for the bot to be active
 
@@ -98,13 +98,12 @@ If you have any ideas on how to improve Stocky, make a contribution!
 
 ## References
 
-* [Credit to othneildrew for the README template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
+* Thanks to [Ajay Gandecha](https://www.youtube.com/watch?v=Uibz0iQjoC0) for instructions on how to set-up a Discord bot
+* Credit to othneildrew for the [README template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
 
 ## Contact
 
 Momin Chaudhry - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
-
-Project Link: [https://github.com/Momin-C/Stocky](https://github.com/Momin-C/Stocky)
 
 [issues-shield]: https://img.shields.io/github/issues/Momin-C/Stocky
 [issues-url]: https://github.com/Momin-C/Stocky/issues
